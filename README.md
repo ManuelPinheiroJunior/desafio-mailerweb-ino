@@ -1,5 +1,5 @@
 
-# 🧪 Coding Test — Fullstack Pleno
+# 🧪 Coding Test — Fullstack
 ## Meeting Room Booking + Async Notification System
 
 ---
