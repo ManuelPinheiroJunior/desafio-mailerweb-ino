@@ -1,0 +1,35 @@
+.card {
+  width: 100%;
+  max-width: 420px;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.subtitle {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+}
+
+.form {
+  display: grid;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.footerText {
+  margin: 14px 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.footerLink {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.footerLink:hover {
+  text-decoration: underline;
+}

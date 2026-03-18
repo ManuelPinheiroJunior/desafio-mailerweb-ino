@@ -1,0 +1,18 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.active {
+  color: #1d4ed8;
+  background: #dbeafe;
+}
+
+.canceled {
+  color: #991b1b;
+  background: #fee2e2;
+}

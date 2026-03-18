@@ -1,0 +1,7 @@
+from enum import StrEnum
+
+
+class OutboxEventType(StrEnum):
+    BOOKING_CREATED = "BOOKING_CREATED"
+    BOOKING_UPDATED = "BOOKING_UPDATED"
+    BOOKING_CANCELED = "BOOKING_CANCELED"

@@ -1,0 +1,17 @@
+.root {
+  border: 1px dashed var(--border);
+  background: var(--surface-muted);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.text {
+  color: var(--text-muted);
+  margin: 8px 0 0;
+}
